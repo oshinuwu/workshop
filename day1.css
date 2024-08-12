@@ -1,0 +1,18 @@
+#heading{
+    float: right;
+    margin: auto;
+    color:blueviolet
+}
+.body{
+    padding: 20px;
+    background-color: aquamarine; 
+    color: blue;
+}
+#button-1{
+    font-size: 20px;
+    border: none;
+    background-color: black;
+    color: azure;
+    padding: 5px;
+
+}
