@@ -1,0 +1,91 @@
+#about{
+  text-align: center;
+  color: rgb(66, 40, 49);
+  
+}
+.home{
+  font-size: 30px;
+  text-align: center;
+}
+.text{
+  text-align: center;
+  color:rgb(66, 40, 49);
+}
+#audio{
+  float: left;
+  margin-top:500px;
+}
+#text{
+  margin-right: 400px;
+  width: 600px;
+  text-align: center;
+  color:rgb(66, 40, 49);
+  float: right;
+}
+#review{
+  width: 600px;
+}
+.menu ul{
+ 
+  list-style-type: none;
+  background-color: rgb(66, 40, 49);
+  padding: 2px 2px;
+  margin: 0px;
+  overflow: hidden;
+}
+.menu a{
+  color: azure;
+  text-decoration: none;
+  padding: 15px ;
+  display: block;
+  text-align: center;
+}
+.menu a.active{
+  background-color: rgb(20, 115, 135);
+}
+.menu a:hover{
+  background-color: rgb(88, 102, 97);
+}
+.menu li{
+  float: left;
+}
+#input{
+  width: 500px;
+}
+#img{
+  width: 250px;
+  margin: 20px;
+}
+#lyrics{
+  display: block;
+  float: left;
+  width: 250px;
+  text-align: center;
+}
+#ly{
+  display: block;
+  width: 260px;
+  text-align: left;
+  float: left;
+  margin-left: 250px;
+  font-size: 15px;
+}
+#button-1{
+  border: none;
+  margin: 5px;
+  background-color: blanchedalmond;
+  text-align: center;
+  font-size: 15px;
+  color: rgb(66, 40, 49);
+}
+.counter{
+  font-size: 20px;
+  text-align: center;
+  width: 350px;
+  margin-top: 20px;
+  border: solid rgb(66, 40, 49);
+  margin-left: 550px;
+  padding: 5px;
+  color: rgb(66, 40, 49);
+  
+}  

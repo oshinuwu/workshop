@@ -1,0 +1,22 @@
+#button-1{
+    border: none;
+    margin: 5px;
+    color:rgb(234, 240, 241);
+    background-color: rgb(33, 111, 112);
+  }
+  .changed-text{
+    color: azure;
+  }
+  .counter{
+    text-align: center;
+    width: 350px;
+    border: solid antiquewhite;
+    margin-left: 20px;
+    padding: 5px;
+    color: azure;
+    
+  }  
+  .para{
+    color: antiquewhite;
+    font-size: 20px;
+  }
